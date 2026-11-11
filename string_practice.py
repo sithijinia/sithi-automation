@@ -1,0 +1,5 @@
+print("SITHI".lower())
+print("sithi".upper())
+print(" Sithi ".strip())
+print("@"in "sithi@gmail.com")
+print("@"in "sithi.gmail.com")

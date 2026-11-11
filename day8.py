@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+course = input ("What are you learning? ")
+age = int(input("How old is your daughter? "))
+print("Hello", name)
+print("You are learning", course)
+print("Next year she will be", age + 1)
